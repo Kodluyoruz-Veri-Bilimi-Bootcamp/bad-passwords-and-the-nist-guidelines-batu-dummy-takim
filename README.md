@@ -10,4 +10,5 @@ In this project, you will take a list of user passwords and, using publication 8
 
 To complete this project, you need to know how to manipulate strings in pandas DataFrames and be familiar with regular expressions.
 
-step1 development completed
+
+kodluyoruz19
