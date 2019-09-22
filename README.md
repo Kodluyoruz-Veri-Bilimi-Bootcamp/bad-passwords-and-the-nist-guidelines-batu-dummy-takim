@@ -9,3 +9,5 @@ Almost every web service you join will require you to come up with a password. B
 In this project, you will take a list of user passwords and, using publication 800-63B, you will write code that automatically detects and flags the bad passwords.
 
 To complete this project, you need to know how to manipulate strings in pandas DataFrames and be familiar with regular expressions.
+
+kodluyoruz19
